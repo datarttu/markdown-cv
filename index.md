@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV | Arttu Kosonen | 4/2023
+title: Arttu Kosonen | 4/2023
 ---
 
 # Arttu Kosonen
@@ -52,7 +52,7 @@ Involved in 23 major consultancy projects around transit data, transport forecas
 B.Sc. & M.Sc. (Tech.) in Spatial Planning and Transportation Engineering.
 Aalto University.
 
-## See also
+### See also
 
 My [thoughts about Transit Data](https://datarttu.github.io/thoughts-about-transit-data/).
 
