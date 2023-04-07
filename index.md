@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV | Arttu Kosonen | 4/2023
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Arttu Kosonen
+
+Data developer, M.Sc. (Tech.)
+
+Based in Helsinki, Finland
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:arttu.kosonen@gmail.com">arttu.kosonen@gmail.com</a>
+| <a href="https://github.com/datarttu">datarttu</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+**Data architect** (9/2022-) at [HSL Helsinki Region Transport](github.com/hsldevcom).
+Focused on **DW, BI, GIS, integrations and data quality** in transit and customer data domains.
+Working with humans, Azure, Python, Postgres/PostGIS.
 
-### Specialized in
+## In Future
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Want to work with clean code and dirty data, create simple yet impactful solutions, and passionately learn with colleagues.
 
+## Skills
 
-### Research interests
+**Excellent** at SQL, Postgres, GIS, documentation and communication, data modelling, Finnish, English
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Good** at Python, R, Azure, SQL Server, Linux, Docker, Git, Swedish, German
 
+**Familiar with** JS, AWS, consulting, public sector management
 
-## Education
+## Previously
 
-`1654-1660`
-__The King's School, Grantham.__
+### Relevant work experience and education
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+2020-2022:
+Data analyst and transport planner at HSL.
+Focused on big transit data and GIS.
 
-- Sizar
+2019-2020:
+Master's thesis worker at HSL.
+_[Retrospective data model for analyzing transit network performance](https://aaltodoc.aalto.fi/handle/123456789/112671)_.
 
-`1667 - death`
-__Trinity College, Cambridge__
+2016-2019:
+Data analyst and part-time employee at WSP Finland Oy (previously: Trafix Oy).
+Involved in 23 major consultancy projects around transit data, transport forecasting, and data modelling.
 
-- Fellow
+2014-2021:
+B.Sc. & M.Sc. (Tech.) in Spatial Planning and Transportation Engineering.
+Aalto University.
 
+## See also
 
+My [thoughts about Transit Data](https://datarttu.github.io/thoughts-about-transit-data/).
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+My [presentation](youtu.be/BJ-r3_xYjOo) on big transit data, documentation, and one-man FOSS project at Lounaistieto webinar, 1/2022.
